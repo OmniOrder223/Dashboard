@@ -30,3 +30,9 @@ An interactive web-based monitoring dashboard built using **Python**, **Streamli
    ```bash
    git clone https://github.com/OmniOrder223/Dashboard.git
    cd YOUR-REPO-NAME
+
+## Deploying to Streamlit Community Cloud (Free)
+
+1. Push your app.py and requirements.txt files to your GitHub repository.
+2. Sign in to Streamlit Community Cloud.
+3. Click New app, select your repository, specify app.py as the main file path, and click Deploy.
